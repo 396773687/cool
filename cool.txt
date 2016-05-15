@@ -7,5 +7,7 @@ class A{
 public void b(){
 "到底是合格还是不合格呢"
 }
-
+public void d(){
+tanglong shi ge tian cai
+}
 }
