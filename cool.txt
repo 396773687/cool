@@ -1,6 +1,7 @@
 class A{
 	public void a(){
-	int a=5; 	
+	int a=5;
+2222222222222222222222222 	
 }
 
 }
