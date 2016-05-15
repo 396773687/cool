@@ -4,3 +4,6 @@ kangzhou shi ge da  shab
 public void b(){
 wenxiaokun shi ge da sb 
 }
+public void tanglong(){
+    fangfa sanyaoosu
+}
